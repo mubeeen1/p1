@@ -1,0 +1,143 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    color: #40514E;
+}
+
+
+h1 {
+    margin: 0px;
+    font-family: "Sacramento", cursive;
+    color: #66BFBF;
+    font-size: 5.625rem;
+}
+
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    color: #66BFBF;
+    font-size: 2.5rem;
+    padding-bottom: 66px;
+    margin-top: 0;
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    color: #11999E;
+}
+hr{
+    border: dotted lightblue;
+    border-width: 4px;
+    border-bottom: 0;
+    width: 4%;
+    margin: 100px auto;
+    
+}
+p{
+    line-height: 2;
+}
+.top-container {
+    background-color: #EAF6F6;
+    padding-top: 100px;
+    position: relative;
+}
+.top-cloud {
+    position: absolute;
+    right: 18.2rem;
+    top: 2.5rem;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250pxpx;
+    bottom: 300pxpx;
+}
+.mountain-img{
+    width: 50%;
+    height: 50%;
+}
+/* .middle-container{
+   color:40 ;
+} */
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 100px 0 30px;
+}
+
+.developer {
+    font-weight: normal;
+}
+.profile{
+    padding-top: 100px;
+}
+.skill-row {
+    width: 50%;
+    text-align: left;
+    margin: 100px auto 100px auto;
+
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.contact-me{
+    width: 40%;
+    margin: 50px auto;
+
+}
+.contact-me-paragraph{
+    padding-bottom: 40px;
+}
+.profile img {
+    margin-top: 5px;
+}
+
+.dev {
+    text-decoration: underline;
+}
+
+.dev-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.content-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    border-radius: 100%;
+}
+
+a {
+    color: #11999E;
+    padding: 100px 20px;
+    font-size: normal;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+
+
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    margin-top: 50px;
+}
+.btn{
+    padding: 10px;
+    background-color: cadetblue;
+    border-radius: 8px;
+    color: #EAF6F6;
+    font-size: 20px;
+    font-family: "Merriweather", serif;
+    margin-top: 230px;
+}
+.btn:hover{
+    background-color: lightgreen;
+}
